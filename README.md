@@ -1,1 +1,1 @@
-# assets
+# Assets for my Github profile
